@@ -9,3 +9,6 @@ https://github.com/major/MySQLTuner-perl
 MySQL Tuning-Primer.sh, updated and improved
 https://github.com/BMDan/tuning-primer.sh
 
+My Personal MySQL Blog about Query Optimizaiton and Locks
+https://frankma.netlify.app/categories/mysql/
+
