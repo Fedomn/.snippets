@@ -29,6 +29,7 @@ VACUUM FULL VERBOSE ANALYZE table;
 
 -- show table size
 SELECT pg_size_pretty(pg_relation_size('tablename'));
+\?
 \di+ cus_*
 
 
