@@ -36,7 +36,7 @@ alter table target_table.table_name replace partition partition_value from targe
 
 
 
--- # systems
+-- # systems & show partition
 select * from system.tables where database = 'external_db' format Vertical;
 select * from system.parts where database = 'db' and table = 'table' format Vertical;
 
