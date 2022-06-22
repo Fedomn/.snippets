@@ -1,11 +1,5 @@
-The Internals of PostgreSQL
-http://www.interdb.jp/pg/index.html
-
-Python PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
-https://github.com/pawurb/python-pg-extras
-
-
-A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-https://github.com/pgexperts/pgx_scripts
-
-
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
+- [Python PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.](https://github.com/pawurb/python-pg-extras)
+- [A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.](https://github.com/pgexperts/pgx_scripts)
+- [Populating a Database](https://www.postgresql.org/docs/current/populate.html), [insertion-performance](https://stackoverflow.com/questions/12206600/how-to-speed-up-insertion-performance-in-postgresql)
+- [postgresql human config](https://postgresqlco.nf/doc/en/param/)
