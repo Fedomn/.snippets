@@ -3,3 +3,4 @@
 - [A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.](https://github.com/pgexperts/pgx_scripts)
 - [Populating a Database](https://www.postgresql.org/docs/current/populate.html), [insertion-performance](https://stackoverflow.com/questions/12206600/how-to-speed-up-insertion-performance-in-postgresql)
 - [postgresql human config](https://postgresqlco.nf/doc/en/param/)
+- [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
